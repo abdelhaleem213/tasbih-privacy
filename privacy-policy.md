@@ -4,11 +4,11 @@ Effective Date: 27/07/2024
 
 Introduction
 
-"بنك أذكار المسلم" takes your privacy seriously. To better protect your privacy, we provide this privacy policy notice explaining how your personal information is collected and used.
+we take your privacy seriously. To better protect your privacy, we provide this privacy policy notice explaining how your personal information is collected and used.
 
 Collection of Routine Information
 
-The "بنك أذكار المسلم" app tracks basic information about its users. This information includes, but is not limited to, IP addresses, app details, timestamps, and referring pages. None of this information can personally identify specific users of this app. The information is tracked for routine administration and maintenance purposes.
+The app tracks basic information about its users. This information includes, but is not limited to, IP addresses, app details, timestamps, and referring pages. None of this information can personally identify specific users of this app. The information is tracked for routine administration and maintenance purposes.
 
 Cookies
 
